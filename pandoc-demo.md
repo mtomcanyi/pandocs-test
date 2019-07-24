@@ -19,7 +19,7 @@ At the time this was written the current version of DocBook V5.0 was
 VERSION. However, almost all of the information in this document is
 general and applies to any newer version of DocBook V5.0.
 
-Introduction
+Introduction <a name="Introduction" />
 ============
 
 The differences between DocBook V4.x and V5.0 are quite radical in some
@@ -71,6 +71,7 @@ namespace.
 
 Relaxing with DocBook {#introduction-rng}
 ---------------------
+This is a link to [Introduction section](#Introduction).
 
 For more than a decade, the DocBook schema was defined using a DTD.
 However, DTDs have serious limitations, and DocBook V5.0 is thus defined
