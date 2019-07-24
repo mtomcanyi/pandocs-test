@@ -42,11 +42,11 @@ Metadata on the output ports must be same.
 Aggregate Attributes
 --------------------
 
-+--------------+----+----------------------------------------+---------+
+
 | Attribute    | Re | Description                            | Possibl |
 |              | q  |                                        | e       |
 |              |    |                                        | values  |
-+:=============+:==:+:=======================================+:=======:+
+|--------------|----|----------------------------------------|---------|
 | Basic        |    |                                        |         |
 +--------------+----+----------------------------------------+---------+
 | Aggregate    |    | A key according to which records are   | E.g.    |
@@ -88,7 +88,7 @@ Aggregate Attributes
 | Old          |    | A mapping that was used in older       |         |
 | aggregation  |    | versions of CloverDX, its use is       |         |
 | mapping      |    | **deprecated** now.                    |         |
-+--------------+----+----------------------------------------+---------+
+
 
 Details {#aggregate-details}
 -------
